@@ -17,6 +17,8 @@ Personal:
 
 ### Open source
 
+- [FEX](https://github.com/FEX-Emu/FEX/pull/6035) - unit tests for SAR sign extension on 8 and 16 bit operands (merged)
+- [CoopAndreas](https://github.com/Tornamic/CoopAndreas/pull/115) - fix GCC build errors in server and shared code (in review)
 - [blanket](https://github.com/rafaelmardojai/blanket/pull/411) - moved audio mixing into a single GStreamer pipeline (merged)
 
 ### Stack
