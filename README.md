@@ -4,10 +4,15 @@ I build models and everything around them: data pipelines, services, CI and moni
 
 ### Projects
 
+MEPhI master's coursework:
+
 - [pd-model-mlops](https://github.com/junknewera/pd-model-mlops) - Credit card default model with DVC, MLflow, FastAPI in Docker and drift monitoring
 - [ecology-helper](https://github.com/junknewera/ecology-helper) - Climate RAG chatbot with E5 embeddings, Qwen2.5-0.5B and Streamlit
 - [sber-avtopodpiska](https://github.com/junknewera/sber-avtopodpiska) - Conversion prediction on Google Analytics sessions using CatBoost and LightGBM
 - [ml-kursovaya](https://github.com/junknewera/ml-kursovaya) - Anti-influenza compound activity prediction using RDKit descriptors
+
+Personal:
+
 - [TodoList](https://github.com/junknewera/TodoList) - C++ CLI task manager with categories, priorities, undo and JSON storage
 
 ### Open source
