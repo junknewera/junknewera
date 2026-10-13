@@ -13,6 +13,7 @@ MEPhI master's coursework:
 
 Personal:
 
+- [camoufox-profiles](https://github.com/junknewera/camoufox-profiles) - Browser profile manager on top of Camoufox with pinned fingerprints and proxy support, native on Linux arm64
 - [TodoList](https://github.com/junknewera/TodoList) - C++ CLI task manager with categories, priorities, undo and JSON storage
 
 ### Open source
