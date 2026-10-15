@@ -24,4 +24,6 @@ Personal:
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,docker,postgres,redis,githubactions,linux,nix,cpp,git" />
 
-ClickHouse, Dagster, Celery, FAISS, MLflow, DVC, CatBoost, LightGBM, Pydantic
+**LLM / NLP:** Transformers, PEFT (LoRA), LangGraph, vLLM, Qdrant, FAISS, BM25, cross-encoder reranking, sentence-transformers, Rasa
+
+**Data / MLOps:** ClickHouse, Dagster, Celery, MLflow, DVC, CatBoost, LightGBM, Pydantic
