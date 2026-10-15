@@ -22,8 +22,8 @@ Personal:
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,docker,postgres,redis,githubactions,linux,nix,cpp,git" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,sklearn,huggingface,ollama,qdrant,mlflow,fastapi,pydantic,celery,postgres,redis,clickhouse,docker,githubactions,linux,nix,cpp,git&perline=7" />
 
-**LLM / NLP:** Transformers, PEFT (LoRA), LangGraph, vLLM, Ollama, Qdrant, FAISS, BM25, cross-encoder reranking, sentence-transformers, Rasa
+**LLM / NLP:** Transformers, PEFT (LoRA), LangGraph, vLLM, FAISS, BM25, cross-encoder reranking, sentence-transformers, Rasa
 
-**Data / MLOps:** ClickHouse, Dagster, Celery, MLflow, DVC, CatBoost, LightGBM, Pydantic
+**Data / MLOps:** Dagster, DVC, CatBoost, LightGBM
